@@ -25,3 +25,4 @@ if __name__ == '__main__':
     print(search(nums,9))
     print(search(nums,4))
     print(search(nums,12))
+    print(search(nums, 14))
